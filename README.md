@@ -77,7 +77,3 @@ For a shorter period, e.g., 1 week:
 ```php
 setcookie("viewed_page_$page_id", "1", time() + 60 * 60 * 24 * 7, "/"); // 1 week
 ```
-
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
