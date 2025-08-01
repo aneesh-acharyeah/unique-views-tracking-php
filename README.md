@@ -1,4 +1,4 @@
-# Unique Views Tracking System (PHP)
+# 👁️ Unique Views Tracking System (PHP)
 
 A PHP-based system to track **unique page views** using cookies, IP addresses, and MySQL. It ensures each visitor is counted once per page within a specified time frame.
 
