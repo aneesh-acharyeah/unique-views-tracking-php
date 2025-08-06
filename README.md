@@ -7,7 +7,7 @@ A PHP-based system to track **unique page views** using cookies, IP addresses, a
 - Tracks unique page views using cookies and IP-based deduplication.
 - Stores view data in a MySQL database for persistence.
 - Configurable cookie expiration for flexible tracking periods.
-- Adaptable for multiple pages with dynamic `page_id`.
+- Adaptable for multiple pages with dynamic `page_id`.  
 
 ## Table of Contents
 
