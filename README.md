@@ -15,7 +15,6 @@ A PHP-based system to track **unique page views** using cookies, IP addresses, a
 - [Usage](#usage)
 - [Database Setup](#database-setup)
 - [Cookie Expiry](#cookie-expiry)
-- [License](#license)
 
 ## Installation
 
